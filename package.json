@@ -1,0 +1,22 @@
+{
+  "name": "helperror",
+  "version": "1.4.0",
+  "description": "Log errors you made",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkagh/Helperror.git"
+  },
+  "keywords": [
+    "errors, log, help, helperror, logging, exception, monitoring, debugging, utility, recorder, tracker, handler, notification, diagnostic, report, observing, analysis"
+  ],
+  "author": "milan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkagh/Helperror/issues"
+  },
+  "homepage": "https://github.com/mkagh/Helperror#readme"
+}
