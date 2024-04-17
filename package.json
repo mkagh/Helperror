@@ -1,6 +1,6 @@
 {
   "name": "helperror",
-  "version": "1.4.0",
+  "version": "1.4.3",
   "description": "Log errors you made",
   "main": "index.js",
   "scripts": {

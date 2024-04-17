@@ -5,13 +5,14 @@ Helperror
 
 ## Author
 
-@mkagh
+ <a href="https://github.com/mkagh">@mkagh</a>
 
 
 ## Installation
 
+```
 npm install helperror
-
+```
 
 ## Get Started
 
